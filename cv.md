@@ -25,12 +25,12 @@
      * Python
        *** Django
      * Git
-       * GitHub
-          
+      * GitHub
+               
    * Methodology:
      ** BEM
      ** AGILE
-          
+     
    ## Code examples: 
 My study project  calculator (with no tests and try_catch)
 
