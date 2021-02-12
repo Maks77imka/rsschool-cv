@@ -28,17 +28,17 @@
       * GitHub
                
    * Methodology:
-     ** BEM
-     ** AGILE
+      * BEM
+      * AGILE
      
-   ## Code examples: 
+   ## _Code examples:_
 My study project  calculator (with no tests and try_catch)
 
 
-  ## Work experience
+  ## _Work experience_
 I dont have an production experience with IT.
 
-  ## Education
+  ## _Education_
 I've finished some online courses:
 * Web Development, by https://stepik.org
 * Java Script from 0, by [IT-KAMASUTRA](https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g)
@@ -51,7 +51,7 @@ I've read some books with programming and did code from it:
 * JavaScript for Kids: A Playful Introduction to Programming, by Nick Morgan 
 * Clean code, by Robert Martin
 
-## English language
+## _English language_
 
 I got english courses from 2016 till the 2018 and in this time I had B1. But next time I have not used english in my life, so now I have A2 and It's **really** difficult to speak english when you don't have anought practice. I try to watch movies in english and read books now.
         
