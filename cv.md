@@ -14,7 +14,7 @@
      * CSS3
      * JavaScript
      * Python
-       *** Django
+      * Django
      * Git
       * GitHub
                
