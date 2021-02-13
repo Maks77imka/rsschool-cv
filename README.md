@@ -1,1 +1,1 @@
-https://Maks77imka.github.io/rsschool-cv/cv.html
+https://maks77imka.github.io/rsschool-cv/index.html
